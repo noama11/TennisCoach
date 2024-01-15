@@ -1,5 +1,8 @@
 # React + Vite
 
+A personal portfolio site on React for a personal tennis coach.
+You can leave details on the website that reach the coach's email.
+Work with displaying a 3D image by working with canvas and other tools.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
